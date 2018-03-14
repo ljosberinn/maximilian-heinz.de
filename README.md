@@ -1,3 +1,3 @@
-# maximilian-heinz.de
+# gerritalex.de
 
-Nothing special just my little public website! :)
+Forked maximilian-heinz.de for own purposes under mentioned MIT License
